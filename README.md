@@ -56,16 +56,6 @@ Bem-vindo ao meu terminal. Sou um **Analista de Sistemas** e desenvolvedor focad
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KBlester&show_icons=true&theme=tokyonight&hide_border=true&title_color=00FF00&icon_color=00FFFF&text_color=A9B1D6&bg_color=0D1117" alt="Top Skills" />
 </div>
----
-### 🌐 `[Network Access Points]`
-<div align="center">
-  <a href="https://twitch.tv/Kodazyx">
-    <img src="https://img.shields.io/badge/TWITCH_//_KODAZYX-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/DISCORD_//_CONNECT-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-</div>
 <p align="center">
   <br>
   <code>>_ EOF</code>
