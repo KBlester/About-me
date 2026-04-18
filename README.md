@@ -1,21 +1,21 @@
+
+```html
 <div align="center">
 
 <pre>
-  _  __              _____  _           _            
- | |/ /             |  __ \| |         | |           
- | ' / __ _ _   _ ___| |__) | | ___  ___| |_ ___ _ __ 
- |  < / _` | | | / _ \  _  /| |/ _ \/ __| __/ _ \ '__|
- | . \ (_| | |_| \__ \ | \ \| |  __/\__ \ ||  __/ |   
- |_|\_\__,_|\__, |___/_|  \_\_|\___||___/\__\___|_|   
-             __/ |                                   
-            |___/                                    
+ ██╗  ██╗ █████╗ ██╗   ██╗███████╗    ██████╗ ██╗     ███████╗███████╗████████╗███████╗██████╗ 
+ ██║ ██╔╝██╔══██╗██║   ██║██╔════╝    ██╔══██╗██║     ██╔════╝██╔════╝╚══██╔══╝██╔════╝██╔══██╗
+ █████╔╝ ███████║██║   ██║█████╗      ██████╔╝██║     █████╗  ███████╗   ██║   █████╗  ██████╔╝
+ ██╔═██╗ ██╔══██║██║   ██║██╔══╝      ██╔══██╗██║     ██╔══╝  ╚════██║   ██║   ██╔══╝  ██╔══██╗
+ ██║  ██╗██║  ██║╚██████╔╝███████╗    ██████╔╝███████╗███████╗███████║   ██║   ███████╗██║  ██║
+ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝    ╚═════╝ ╚══════╝╚══════╝╚══════╝   ╚═╝   ╚══════╝╚═╝  ╚═╝
 </pre>
 
 **`[SYSTEM: ACTIVE]` | `[USER: KAUÊ BLESTER]` | `[ROLE: FULLSTACK & GAME DEV]`**
 
 <br>
 
-<a href="https://github.com/KaueBlester">
+<a href="https://github.com/KBlester">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Decoding+the+future,+one+script+at+a+time.;Initializing+Terminal+Interface...;Access+Granted." alt="Typing Effect" />
 </a>
 
@@ -53,7 +53,7 @@ Bem-vindo ao meu terminal. Sou um **Analista de Sistemas** e desenvolvedor focad
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaueBlester&layout=compact&theme=tokyonight&hide_border=true&title_color=00FF00&text_color=00FFFF&bg_color=0D1117" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KBlester&layout=compact&theme=tokyonight&hide_border=true&title_color=00FF00&text_color=00FFFF&bg_color=0D1117" alt="Top Langs" />
 </div>
 
 ---
@@ -73,13 +73,13 @@ Bem-vindo ao meu terminal. Sou um **Analista de Sistemas** e desenvolvedor focad
 ### 📡 `[Visual Tech]`
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KaueBlester&bg_color=0D1117&color=00FF00&line=00FF00&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KBlester&bg_color=0D1117&color=00FF00&line=00FF00&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KaueBlester&show_icons=true&theme=tokyonight&hide_border=true&title_color=00FF00&icon_color=00FFFF&text_color=A9B1D6&bg_color=0D1117" alt="Top Skills" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KBlester&show_icons=true&theme=tokyonight&hide_border=true&title_color=00FF00&icon_color=00FFFF&text_color=A9B1D6&bg_color=0D1117" alt="Top Skills" />
 </div>
 
 ---
@@ -93,12 +93,10 @@ Bem-vindo ao meu terminal. Sou um **Analista de Sistemas** e desenvolvedor focad
   <a href="#">
     <img src="https://img.shields.io/badge/DISCORD_//_CONNECT-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/PORTFOLIO_//_ACCESS-000000?style=for-the-badge&logo=googlechrome&logoColor=00FF00" />
-  </a>
 </div>
 
 <p align="center">
   <br>
   <code>>_ EOF</code>
 </p>
+```
