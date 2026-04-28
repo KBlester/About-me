@@ -14,7 +14,7 @@
 </div>
 <hr>
 <h3>📂 <code>[Current Directory: /home/kaue]</code></h3>
-<p>Bem-vindo ao meu terminal. Sou um <strong>Analista de Sistemas</strong> e desenvolvedor focado na criação de soluções avançadas para Discord (<strong>ABC BOTS</strong>) e no desenvolvimento de ecossistemas robustos para <strong>FiveM / GTA RP</strong>.</p>
+<p>Bem-vindo ao meu terminal. Sou um <strong>Técnico de Sistemas de Computação</strong> e desenvolvedor focado na criação de soluções avançadas para Discord (<strong>ABC BOTS</strong>) e no desenvolvimento de ecossistemas robustos para <strong>FiveM / GTA RP</strong>.</p>
 <blockquote>
   <p><code>&gt;_</code> 💻 <strong>Analista de Sistemas</strong> e entusiasta de Hardware.</p>
   <p><code>&gt;_</code> 🤖 Criador da <strong>ABC BOTS</strong>: Automação comercial inteligente.</p>
